@@ -1,0 +1,2 @@
+progressbar==2.5
+python-owasp-zap-v2.4==0.0.16
