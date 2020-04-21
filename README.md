@@ -16,7 +16,7 @@
 ```                       
 
 ## About
-This script helps you on Web pentesting. It wrote with Python3 and used **OWASP-ZAP** APIs ([Link](http://`https://github.com/zaproxy/zap-api-python/` "Link")). It can **Spider** and **Scan** your target and shows the output in JSON format or save it in the file.
+This script helps you on Web pentesting. It wrote with Python3 and used **OWASP-ZAP** APIs ([Link](https.com//github.com/zaproxy/zap-api-python/ "Link")). It can **Spider** and **Scan** your target and shows the output in JSON format or save it in the file.
 
 ----
 
